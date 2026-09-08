@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
 |  |
 | ------- |
@@ -168,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
