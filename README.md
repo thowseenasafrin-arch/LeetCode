@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
