@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
