@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -96,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
