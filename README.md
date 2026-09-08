@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
 ## String
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
@@ -279,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
