@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
