@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2544-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
