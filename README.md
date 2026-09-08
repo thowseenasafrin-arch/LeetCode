@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -239,8 +242,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
