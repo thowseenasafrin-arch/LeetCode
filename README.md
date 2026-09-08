@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
