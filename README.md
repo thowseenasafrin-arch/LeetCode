@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
