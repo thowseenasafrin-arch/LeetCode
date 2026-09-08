@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0367-valid-perfect-square) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
