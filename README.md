@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -188,16 +190,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -341,4 +346,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
