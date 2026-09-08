@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
@@ -300,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
