@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
