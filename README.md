@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
+| [0941-valid-mountain-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
