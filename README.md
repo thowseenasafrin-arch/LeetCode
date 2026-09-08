@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
 | ------- |
