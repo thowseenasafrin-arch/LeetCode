@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
