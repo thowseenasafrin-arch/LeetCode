@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
