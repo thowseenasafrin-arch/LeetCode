@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -387,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
