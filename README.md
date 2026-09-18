@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0319-bulb-switcher) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
