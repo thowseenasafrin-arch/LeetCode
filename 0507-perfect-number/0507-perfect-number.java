@@ -1,11 +1,20 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int factsum=0;
-        for(int div=1;div<=num/2;div++){
-            if(num%div==0){
-              factsum=factsum+div;
+        if (num <= 1) {
+            return false;
+        }
+        
+        int sum = 1;
+        
+        for (int i = 2; (long) i * i <= num; i++) {
+            if (num % i == 0) {
+                sum += i;
+                if (i != num / i) {
+                    sum += num / i;
+                }
             }
         }
-        return factsum==num;
+        
+        return sum == num;
     }
 }
