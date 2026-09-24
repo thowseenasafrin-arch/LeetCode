@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0507-perfect-number) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
