@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
