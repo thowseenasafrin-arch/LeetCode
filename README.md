@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0412-fizz-buzz) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/thowseenasafrin-arch/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bucket Sort
 |  |
